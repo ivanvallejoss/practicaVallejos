@@ -1,0 +1,36 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: content-box;
+}
+
+a{
+    text-decoration: none;
+    color: black !important;
+}
+
+#header{
+    height: 30vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+a
+
+nav{
+    height: 7vh;
+}
+
+.nav{
+    display: flex;
+    justify-content: space-around;
+}
+
+#mainHome{
+    height: 70vh;
+}
+
+footer{
+    height: 30vh;
+}
