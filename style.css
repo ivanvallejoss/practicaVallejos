@@ -10,13 +10,11 @@ a{
 }
 
 #header{
-    height: 30vh;
+    height: 23vh;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
-a
 
 nav{
     height: 7vh;
@@ -28,8 +26,24 @@ nav{
 }
 
 #mainHome{
-    height: 70vh;
+    height: 68vh;
+    padding-top: 20px;
 }
+
+.homeInfo{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.homeImg{
+    height: 350px;
+}
+
+img{
+    height: 100%;
+} 
+
 
 footer{
     height: 30vh;
